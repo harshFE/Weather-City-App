@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #a2caba;
+}
+#navbarSupportedContent{
+    display: flex;
+    justify-content: end;
+}
+.card-text{
+    background-color:rgb(42 138 138 / 61%);
+}
+#cityName{
+    margin-bottom: 0;
+    padding: 9px;
+    text-align: center;
+}
+h1,h4{
+    text-align: center;
+}
+#diff-temp{
+    padding-top: 8px;
+    display: flex;
+    justify-content: space-between;
+}
